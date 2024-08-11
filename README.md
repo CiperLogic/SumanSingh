@@ -45,8 +45,8 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp&w=256" alt="PostgresSQL" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sijal&show_icons=true&locale=en&layout=compact" alt="sijal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CiperLogic&show_icons=true&locale=en&layout=compact" alt="Suman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijal&show_icons=true&locale=en" alt="sijal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CiperLogic&show_icons=true&locale=en" alt="Suman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sijal&" alt="sijal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiperLogic&" alt="Suman" /></p>
