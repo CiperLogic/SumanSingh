@@ -1,3 +1,5 @@
+package Programs;
+
 public class _001TowerOfHanoi {
     public static void main(String []args) {
         resolve(3, "source", "temp", "destination");
