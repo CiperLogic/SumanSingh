@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Spring based project**
 
-- 🌱 I’m currently learning **AI/ML**
-
 - 💬 Ask me about **Java | Docker | Springboot | kubernetes**
 
 <h3 align="left">Connect with me:</h3>
